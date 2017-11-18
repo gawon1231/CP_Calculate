@@ -1,4 +1,4 @@
-package Calculate;
+package CP_Calculate;
 
 import java.util.Scanner;
 
@@ -7,6 +7,7 @@ public class Calculate {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		@SuppressWarnings("resource")
 		Scanner input = new Scanner(System.in);
 		int x, y;
 		String operator;
